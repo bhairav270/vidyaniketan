@@ -1157,3 +1157,15 @@ body{
   padding: 16px 32px;
 }
 
+	body {
+    position: relative;
+  }
+  ul.nav-pills {
+    
+    position: fixed;
+  }
+  div.col-8 div {
+    height: 500px;
+  }
+
+ 
